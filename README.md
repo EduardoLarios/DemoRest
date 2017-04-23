@@ -1,3 +1,3 @@
 # drf-demo
 
-A project for article at some_href
+A project to test django-rest-framework and django-rest-swagger
